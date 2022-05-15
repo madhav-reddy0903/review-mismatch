@@ -5,6 +5,6 @@ scikit-learn
 matplotlib 
 pandas
 nltk
-nltk.sentiment.vader
+nltk.sentiment
 streamlit
 streamlit_authenticator
