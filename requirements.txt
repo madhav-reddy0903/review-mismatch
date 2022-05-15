@@ -1,0 +1,10 @@
+Flask
+numpy
+scipy
+scikit-learn
+matplotlib 
+pandas
+nltk
+nltk.sentiment.vader
+streamlit
+streamlit_authenticator
