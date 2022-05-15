@@ -5,6 +5,5 @@ scikit-learn
 matplotlib 
 pandas
 nltk
-nltk.sentiment
 streamlit
 streamlit_authenticator
