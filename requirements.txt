@@ -7,4 +7,3 @@ pandas
 nltk
 streamlit
 streamlit_authenticator
-nltk.sentiment
