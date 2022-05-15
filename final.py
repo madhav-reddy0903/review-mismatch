@@ -8,7 +8,7 @@ Created on Fri May 13 18:23:44 2022
 import pandas as pd
 import streamlit as st
 import nltk
-nltk.download('sentiment/vader')
+nltk.downloader.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import streamlit_authenticator as stauth
 
